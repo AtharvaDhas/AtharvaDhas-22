@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Atharva Dhas
-🚀 Frontend Developer | Problem Solver  
-
+🎓 Computer Engineering Undergraduate (2025) | Pune
+🔧 Full-Stack Developer | Problem Solver | Tech Enthusiast
+📍 Passionate about building scalable, user-centric solutions using modern web technologies.
 ---
 
-### 🧭 About Me
-A passionate and dedicated **Computer Engineering Student (2025)** from India, working towards becoming a skilled **Frontend Developer**. I love building interactive and scalable web applications that provide great user experiences.
+### 🧭 
+"With curiosity as my compass, I navigate the ever-evolving world of code."
 
-> "Consistency beats intensity."
 
 ---
 
@@ -44,10 +44,20 @@ Browse food items, add to cart, and place orders with a clean and responsive UI.
 
 - ⚛️ Advanced React & Frontend Engineering
 - 🧮 DSA in Java
-- 🔐 Basics of Cybersecurity
+- 🔐 System Design basics
 
 ---
+###🎓 Education
+- B.E. in Computer Engineering — Savitribai Phule Pune University
+  2021 - 2025 | CGPA: 7.79
 
+---
+###💼 Internship
+- Web Development Intern – MotionCut (Jan 2024 – Feb 2024)
+  -> Built responsive UI projects using HTML, CSS, JavaScript
+  -> Projects: OTT Pricing Page, E-commerce Product Page, To-Do List
+
+---
 ### 📫 Connect With Me
 
 📧 Email: **atharvadhas02@gmail.com**  
